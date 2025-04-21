@@ -1,0 +1,24 @@
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.deps.json
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.csproj.AssemblyReference.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.AssemblyInfoInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.AssemblyInfo.cs
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\refint\Umut2000.Entity.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Entity\obj\Debug\net9.0\ref\Umut2000.Entity.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.deps.json
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\bin\Debug\net9.0\Umut2000.Entity.pdb
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.csproj.AssemblyReference.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.AssemblyInfoInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.AssemblyInfo.cs
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.csproj.CoreCompileInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\refint\Umut2000.Entity.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\Umut2000.Entity.pdb
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Entity\obj\Debug\net9.0\ref\Umut2000.Entity.dll

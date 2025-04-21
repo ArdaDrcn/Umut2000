@@ -1,0 +1,22 @@
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.deps.json
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.AssemblyInfoInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.AssemblyInfo.cs
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\refint\Umut2000.Dto.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Dto\obj\Debug\net9.0\ref\Umut2000.Dto.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.deps.json
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\bin\Debug\net9.0\Umut2000.Dto.pdb
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.AssemblyInfoInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.AssemblyInfo.cs
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.csproj.CoreCompileInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\refint\Umut2000.Dto.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\Umut2000.Dto.pdb
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Dto\obj\Debug\net9.0\ref\Umut2000.Dto.dll

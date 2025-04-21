@@ -1,0 +1,23 @@
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\bin\Debug\net9.0\Umut2000.DataAccess.deps.json
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\bin\Debug\net9.0\Umut2000.DataAccess.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\bin\Debug\net9.0\Umut2000.DataAccess.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\bin\Debug\net9.0\Umut2000.Entity.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\bin\Debug\net9.0\Umut2000.Entity.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.AssemblyInfo.cs
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.C791ECB9.Up2Date
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\refint\Umut2000.DataAccess.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.DataAccess\obj\Debug\net9.0\ref\Umut2000.DataAccess.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.csproj.AssemblyReference.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.AssemblyInfoInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.AssemblyInfo.cs
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.csproj.CoreCompileInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\refint\Umut2000.DataAccess.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.DataAccess\obj\Debug\net9.0\Umut2000.DataAccess.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F233D2AB-F050-4711-AC14-7721CC934761}|Umut2000.DataAccess\\Umut2000.DataAccess.csproj|c:\\002 - webdevelopment\\002 - maindevelopment\\umut2000\\umut2000.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233D2AB-F050-4711-AC14-7721CC934761}|Umut2000.DataAccess\\Umut2000.DataAccess.csproj|solutionrelative:umut2000.dataaccess\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E7430-459F-4258-9CDD-5276A6713576}|Umut2000.Business\\Umut2000.Business.csproj|c:\\002 - webdevelopment\\002 - maindevelopment\\umut2000\\umut2000.business\\concrete\\umutusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E7430-459F-4258-9CDD-5276A6713576}|Umut2000.Business\\Umut2000.Business.csproj|solutionrelative:umut2000.business\\concrete\\umutusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F7E7430-459F-4258-9CDD-5276A6713576}|Umut2000.Business\\Umut2000.Business.csproj|c:\\002 - webdevelopment\\002 - maindevelopment\\umut2000\\umut2000.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F7E7430-459F-4258-9CDD-5276A6713576}|Umut2000.Business\\Umut2000.Business.csproj|solutionrelative:umut2000.business\\abstract\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F233D2AB-F050-4711-AC14-7721CC934761}|Umut2000.DataAccess\\Umut2000.DataAccess.csproj|c:\\002 - webdevelopment\\002 - maindevelopment\\umut2000\\umut2000.dataaccess\\apstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F233D2AB-F050-4711-AC14-7721CC934761}|Umut2000.DataAccess\\Umut2000.DataAccess.csproj|solutionrelative:umut2000.dataaccess\\apstract\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Umut2000.DataAccess\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Umut2000.DataAccess\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T02:24:26.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IGenericDal.cs",
+              "DocumentMoniker": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Apstract\\IGenericDal.cs",
+              "RelativeDocumentMoniker": "Umut2000.DataAccess\\Apstract\\IGenericDal.cs",
+              "ToolTip": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Apstract\\IGenericDal.cs",
+              "RelativeToolTip": "Umut2000.DataAccess\\Apstract\\IGenericDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:51:30.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Abstract\\IGenericService.cs",
+              "RelativeDocumentMoniker": "Umut2000.Business\\Abstract\\IGenericService.cs",
+              "ToolTip": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Abstract\\IGenericService.cs",
+              "RelativeToolTip": "Umut2000.Business\\Abstract\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:48:56.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UmutUserManager.cs",
+              "DocumentMoniker": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Concrete\\UmutUserManager.cs",
+              "RelativeDocumentMoniker": "Umut2000.Business\\Concrete\\UmutUserManager.cs",
+              "ToolTip": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Concrete\\UmutUserManager.cs",
+              "RelativeToolTip": "Umut2000.Business\\Concrete\\UmutUserManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T01:37:29.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

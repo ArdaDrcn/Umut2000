@@ -1,0 +1,19 @@
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\bin\Debug\net9.0\Umut2000.Business.deps.json
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\bin\Debug\net9.0\Umut2000.Business.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\bin\Debug\net9.0\Umut2000.Business.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.AssemblyInfoInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.AssemblyInfo.cs
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.csproj.CoreCompileInputs.cache
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\refint\Umut2000.Business.dll
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.pdb
+C:\Users\ARDADRCN\source\repos\Umut2000.WebUI\Umut2000.Business\obj\Debug\net9.0\ref\Umut2000.Business.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.csproj.AssemblyReference.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.AssemblyInfoInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.AssemblyInfo.cs
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.csproj.CoreCompileInputs.cache
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\refint\Umut2000.Business.dll
+C:\002 - WebDevelopment\002 - MainDevelopment\Umut2000\Umut2000.Business\obj\Debug\net9.0\Umut2000.Business.pdb
