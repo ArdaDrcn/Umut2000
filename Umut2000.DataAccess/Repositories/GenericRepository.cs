@@ -19,7 +19,7 @@ namespace Umut2000.DataAccess.Repositories
             return await _context.Set<T>().CountAsync();
         }
 
-        public async Task CreatAsynce(T entity)
+        public async Task CreateAsync(T entity)
         {
             await _context.AddAsync(entity);
             await _context.SaveChangesAsync();
