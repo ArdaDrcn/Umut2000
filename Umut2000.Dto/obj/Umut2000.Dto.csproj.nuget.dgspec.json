@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj": {}
+    "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj": {}
   },
   "projects": {
-    "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj": {
+    "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj",
+        "projectUniqueName": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj",
         "projectName": "Umut2000.Dto",
-        "projectPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj",
-        "packagesPath": "C:\\Users\\ARDADRCN\\.nuget\\packages\\",
-        "outputPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Dto\\obj\\",
+        "projectPath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Dto\\Umut2000.Dto.csproj",
+        "packagesPath": "C:\\Users\\ardad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ARDADRCN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ardad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
