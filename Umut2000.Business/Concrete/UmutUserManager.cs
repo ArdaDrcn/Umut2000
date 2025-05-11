@@ -6,48 +6,10 @@ using Umut2000.Entity.Models;
 
 namespace Umut2000.Business.Concrete
 {
-    public class UmutUserManager : IUmutUserService
+    public class UmutUserManager : GenericManager<UmutUser>, IUmutUserService
     {
-        private readonly IUmutUserDal _umutUserDal;
-
-        public UmutUserManager(IUmutUserDal umutUserDal)
+        public UmutUserManager(IGenericDal<UmutUser> genericdal) : base(genericdal)
         {
-            _umutUserDal = umutUserDal;
-        }
-
-        public async Task<int> TCountAsync()
-        {
-            return await _umutUserDal.CountAsync();
-        }
-
-        public async Task TCreateAsync(UmutUser entity)
-        {
-            await _umutUserDal.CreateAsync(entity);
-        }
-
-        public async Task TDeleteAsync(ObjectId id)
-        {
-            await _umutUserDal.DeleteAsync(id);
-        }
-
-        public async Task<UmutUser> TGetByIdAsync(ObjectId id)
-        {
-            return await _umutUserDal.GetByIdAsync(id);
-        }
-
-        public async Task<List<UmutUser>> TGetFilteredListAsync(Expression<Func<UmutUser, bool>> predicate)
-        {
-            return await _umutUserDal.GetFilteredListAsync(predicate);
-        }
-
-        public async Task<List<UmutUser>> TGetListAsync()
-        {
-            return await _umutUserDal.GetListAsync();
-        }
-
-        public async Task TUpdateAsync(UmutUser entity)
-        {
-            await _umutUserDal.UpdateAsync(entity);
         }
     }
 }

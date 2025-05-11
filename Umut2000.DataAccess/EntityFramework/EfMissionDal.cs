@@ -5,7 +5,7 @@ using Umut2000.Entity.Models;
 
 namespace Umut2000.DataAccess.EntityFramework
 {
-    internal class EfMissionDal : GenericRepository<Mission>, IMissionDal
+    public class EfMissionDal : GenericRepository<Mission>, IMissionDal
     {
         public EfMissionDal(UmutContext context) : base(context)
         {

@@ -401,6 +401,21 @@
           "lib/net7.0/ZstdSharp.dll": {}
         }
       },
+      "Umut2000.Business/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "MongoDB.Bson": "3.3.0",
+          "Umut2000.DataAccess": "1.0.0",
+          "Umut2000.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Umut2000.Business.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Umut2000.Business.dll": {}
+        }
+      },
       "Umut2000.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -1149,6 +1164,11 @@
         "zstdsharp.port.nuspec"
       ]
     },
+    "Umut2000.Business/1.0.0": {
+      "type": "project",
+      "path": "../Umut2000.Business/Umut2000.Business.csproj",
+      "msbuildProject": "../Umut2000.Business/Umut2000.Business.csproj"
+    },
     "Umut2000.DataAccess/1.0.0": {
       "type": "project",
       "path": "../Umut2000.DataAccess/Umut2000.DataAccess.csproj",
@@ -1162,27 +1182,28 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
+      "Umut2000.Business >= 1.0.0",
       "Umut2000.DataAccess >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ardad\\.nuget\\packages\\": {},
+    "C:\\Users\\ARDADRCN\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.WebUI\\Umut2000.WebUI.csproj",
+      "projectUniqueName": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.WebUI\\Umut2000.WebUI.csproj",
       "projectName": "Umut2000.WebUI",
-      "projectPath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.WebUI\\Umut2000.WebUI.csproj",
-      "packagesPath": "C:\\Users\\ardad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.WebUI\\obj\\",
+      "projectPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.WebUI\\Umut2000.WebUI.csproj",
+      "packagesPath": "C:\\Users\\ARDADRCN\\.nuget\\packages\\",
+      "outputPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ardad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ARDADRCN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1197,8 +1218,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.DataAccess\\Umut2000.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.DataAccess\\Umut2000.DataAccess.csproj"
+            "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Umut2000.Business.csproj": {
+              "projectPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Business\\Umut2000.Business.csproj"
+            },
+            "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Umut2000.DataAccess.csproj": {
+              "projectPath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.DataAccess\\Umut2000.DataAccess.csproj"
             }
           }
         }

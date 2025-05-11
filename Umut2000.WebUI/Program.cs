@@ -1,10 +1,18 @@
 using Microsoft.EntityFrameworkCore;
 using MongoDB.Driver;
+using Umut2000.Business.Abstract;
+using Umut2000.Business.Concrete;
+using Umut2000.DataAccess.Apstract;
 using Umut2000.DataAccess.Context;
+using Umut2000.DataAccess.EntityFramework;
+using Umut2000.DataAccess.Repositories;
+using Umut2000.WebUI.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+builder.Services.AddServiceExtensions();
 
 var mongoDatabase = new MongoClient(builder.Configuration.GetConnectionString("MongoConnection")).GetDatabase(builder.Configuration.GetSection("DatabaseName").Value);
 

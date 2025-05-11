@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Umut2000.Business\Umut2000.Business.csproj" />
     <ProjectReference Include="..\Umut2000.DataAccess\Umut2000.DataAccess.csproj" />
   </ItemGroup>
 

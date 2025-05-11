@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Umut2000.Dto")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c3c3bcc0fbda11bc88ade53cb2beda94b70d8da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20eb15ca41ed8cdea18275793ee4edf6e0474024")]
 [assembly: System.Reflection.AssemblyProductAttribute("Umut2000.Dto")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Umut2000.Dto")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

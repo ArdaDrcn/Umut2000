@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "/bgMx0XhfRQ=",
+  "dgSpecHash": "NEDdUQZSZzc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ardad\\source\\repos\\Umut2000\\Umut2000.Entity\\Umut2000.Entity.csproj",
+  "projectFilePath": "C:\\002 - WebDevelopment\\002 - MainDevelopment\\Umut2000\\Umut2000.Entity\\Umut2000.Entity.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ardad\\.nuget\\packages\\mongodb.bson\\3.3.0\\mongodb.bson.3.3.0.nupkg.sha512",
-    "C:\\Users\\ardad\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\ardad\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+    "C:\\Users\\ARDADRCN\\.nuget\\packages\\mongodb.bson\\3.3.0\\mongodb.bson.3.3.0.nupkg.sha512",
+    "C:\\Users\\ARDADRCN\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ARDADRCN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
