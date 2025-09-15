@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Umut2000.WebUI.props" />
-</Project>
